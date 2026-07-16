@@ -1,6 +1,6 @@
-# Olá, eu sou o Hillan! 👋
+# Olá! 👋
 
-Sou estudante de Ciência da Computação na UFPI e transito entre desenvolvimento de software, robótica e desenvolvimento web. Sempre buscando criar soluções completas e eficientes para os projetos que participo.
+Me chamo Hillan, sou estudante de Ciência da Computação na UFPI e transito entre desenvolvimento de software, robótica e desenvolvimento web. Sempre buscando criar soluções completas e eficientes para os projetos que participo.
 
 ---
 
